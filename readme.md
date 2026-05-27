@@ -43,7 +43,7 @@ The next version will be redesigned as dueone-core with improved product plannin
 ---
 
 # DueOne demo
-= Next.js + TypeScript로 만든 초기 프로토타입
-= Space / Calendar / Secret Chat 컨셉 검증용
-= 실제 서비스 버전 아님
-= Backend, Auth, DB, Realtime Chat 미구현
+- Next.js + TypeScript로 만든 초기 프로토타입
+- Space / Calendar / Secret Chat 컨셉 검증용
+- 실제 서비스 버전 아님
+- Backend, Auth, DB, Realtime Chat 미구현
